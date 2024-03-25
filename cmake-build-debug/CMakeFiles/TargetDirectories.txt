@@ -1,0 +1,3 @@
+C:/AWS/Git/CLang-Study/cmake-build-debug/CMakeFiles/CLang_Study.dir
+C:/AWS/Git/CLang-Study/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/AWS/Git/CLang-Study/cmake-build-debug/CMakeFiles/rebuild_cache.dir
